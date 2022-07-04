@@ -2,4 +2,4 @@
 .*-backups
 fp-info-cache
 backups/
-missing3Dmodels.txt
+.*missing3Dmodels.txt
