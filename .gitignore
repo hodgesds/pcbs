@@ -1,1 +1,5 @@
 \.svg2shenzhen-cache/
+.*-backups
+fp-info-cache
+backups/
+missing3Dmodels.txt
